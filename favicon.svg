@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Сорок минут до дома</title>
+  <rect width="64" height="64" rx="14" fill="#121923"/>
+  <circle cx="43" cy="23" r="9" fill="#b98b62"/>
+  <path d="M10 38 24 26l14 12v16H10Z" fill="#e9dcc8"/>
+  <path d="M24 54V42h7v12M8 54h48" fill="none" stroke="#34465d" stroke-width="3"/>
+</svg>
