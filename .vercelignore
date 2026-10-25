@@ -1,0 +1,17 @@
+# Publish only the existing static website. Keep local tools and reports private.
+/*
+!/*.html
+!/css/
+!/js/
+!/data/
+!/books/
+!/assets/
+!/vercel.json
+
+# Never publish credentials or caches inside included folders either.
+**/.env
+**/.env.*
+**/__pycache__/
+**/*.pyc
+**/.DS_Store
+**/Thumbs.db

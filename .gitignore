@@ -1,0 +1,34 @@
+# Python environments and caches (only used for local tools)
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+.vercel/
+.idea/
+.vscode/
+.agents/
+.codex/
+.aws/
+
+# Generated checks, OS files and temporary copies
+tests/screenshots/
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+node_modules/
+dist/
+
+# Author-provided images, books and authorized music are intentionally included.
