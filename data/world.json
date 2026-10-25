@@ -1,0 +1,835 @@
+{
+  "locations": [
+    {
+      "id": "school",
+      "title": "Школа",
+      "description": "Здесь учительница представляет классу Сайкал.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-01",
+        "paragraph": "p54"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-01"
+      },
+      "x": 15,
+      "y": 20
+    },
+    {
+      "id": "road",
+      "title": "Дорога домой",
+      "description": "Салман и Сайкал идут вместе от школы к новостройке.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-01",
+        "paragraph": "p134"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-01"
+      },
+      "x": 43,
+      "y": 49
+    },
+    {
+      "id": "shop",
+      "title": "Магазин",
+      "description": "В магазине часы показывают семнадцать минут пятого.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-02",
+        "paragraph": "p219"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-02"
+      },
+      "x": 42,
+      "y": 22
+    },
+    {
+      "id": "bakery",
+      "title": "Пекарня",
+      "description": "По дороге Салман и Сайкал покупают булочки.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-03",
+        "paragraph": "p378"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-03"
+      },
+      "x": 72,
+      "y": 23
+    },
+    {
+      "id": "stop",
+      "title": "Остановка",
+      "description": "Сайкал прячется под навесом от дождя.",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-04",
+        "paragraph": "p317"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-04"
+      },
+      "x": 78,
+      "y": 62
+    },
+    {
+      "id": "home",
+      "title": "Дом Сайкал",
+      "description": "У поворота Сайкал прощается с Салманом и идёт к дому.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-01",
+        "paragraph": "p178"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-01"
+      },
+      "x": 44,
+      "y": 80
+    },
+    {
+      "id": "stadium",
+      "title": "Стадион",
+      "description": "Сайкал назначает встречу у стадиона.",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-07",
+        "paragraph": "p600"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-07"
+      },
+      "x": 14,
+      "y": 73
+    }
+  ],
+  "events": [
+    {
+      "id": "meeting",
+      "title": "Первое знакомство",
+      "description": "Учительница представляет Сайкал; Салман подходит к её парте.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-01",
+        "paragraph": "p54"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-01"
+      }
+    },
+    {
+      "id": "clock",
+      "title": "Остановившиеся часы",
+      "description": "Сайкал замечает, что часы в магазине стоят.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-02",
+        "paragraph": "p219"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-02"
+      }
+    },
+    {
+      "id": "third-day",
+      "title": "Третий день",
+      "description": "Салман смотрит на время у перехода.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-03",
+        "paragraph": "p422"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-03"
+      }
+    },
+    {
+      "id": "new-voice",
+      "title": "Чужое имя",
+      "description": "Смерть впервые просыпается в человеческом теле.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-04",
+        "paragraph": "p447"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-04"
+      }
+    },
+    {
+      "id": "photo",
+      "title": "Школьная фотография",
+      "description": "Смерть находит старую школьную фотографию Салмана.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-14",
+        "paragraph": "p1177"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-14"
+      }
+    },
+    {
+      "id": "blue-book",
+      "title": "Синяя тетрадь",
+      "description": "Дата в тетради оказывается раньше знакомства в школе.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "epilogue",
+        "paragraph": "p1795"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "epilogue"
+      }
+    },
+    {
+      "id": "message",
+      "title": "Незнакомый номер",
+      "description": "Сайкал получает сообщение от незнакомого номера.",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-02",
+        "paragraph": "p169"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-02"
+      }
+    },
+    {
+      "id": "three",
+      "title": "Встреча втроём",
+      "description": "Сайкал, Салман и незнакомец встречаются у стадиона.",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-07",
+        "paragraph": "p622"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-07"
+      }
+    },
+    {
+      "id": "notes",
+      "title": "Листки с описаниями",
+      "description": "Сайкал находит описания Салмана и Смерти своим почерком.",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-13",
+        "paragraph": "p1162"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-13"
+      }
+    },
+    {
+      "id": "old-photo",
+      "title": "Старая фотография",
+      "description": "На старом снимке Сайкал замечает рисунок трёх фигур.",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-17",
+        "paragraph": "p1558"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-17"
+      }
+    },
+    {
+      "id": "key",
+      "title": "Ключ",
+      "description": "Ключ из кармана Сайкал открывает калитку дома.",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "chapter-04",
+        "paragraph": "p317"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-04"
+      }
+    },
+    {
+      "id": "files",
+      "title": "Первая страница",
+      "description": "Сайкал открывает файлы трёх томов на ноутбуке.",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "chapter-12",
+        "paragraph": "p977"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-12"
+      }
+    },
+    {
+      "id": "call",
+      "title": "Время звонка",
+      "description": "16:17 оказывается временем звонка из прошлого Сайкал.",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "chapter-14",
+        "paragraph": "p1136"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-14"
+      }
+    },
+    {
+      "id": "origin",
+      "title": "Тот, кого она написала",
+      "description": "Черновики показывают, как Сайкал создавала персонажей и сюжет.",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "chapter-16",
+        "paragraph": "p1217"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-16"
+      }
+    },
+    {
+      "id": "third-version",
+      "title": "Третья версия",
+      "description": "Сайкал начинает новую версию истории.",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "chapter-20",
+        "paragraph": "p1598"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-20"
+      }
+    },
+    {
+      "id": "last-road",
+      "title": "Сорок минут до дома",
+      "description": "Сайкал снова проходит знакомую дорогу.",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "epilogue",
+        "paragraph": "p1675"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "epilogue"
+      }
+    }
+  ],
+  "notebook": [
+    {
+      "id": "first-note",
+      "title": "Первая запись",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-01",
+        "paragraph": "p180"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-01"
+      },
+      "fragments": [],
+      "blank": true
+    },
+    {
+      "id": "laughter",
+      "title": "Разговор о смехе",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "epilogue",
+        "paragraph": "p1778"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "epilogue"
+      },
+      "fragments": [
+        {
+          "text": "«— Почему люди смеются? — спросил он.",
+          "paragraph": "p1778",
+          "pencil": false,
+          "strike": false
+        },
+        {
+          "text": "— Иногда потому, что им хорошо, — ответила она».",
+          "paragraph": "p1779",
+          "pencil": false,
+          "strike": false
+        }
+      ],
+      "blank": false
+    },
+    {
+      "id": "pencil",
+      "title": "Карандашная пометка",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "epilogue",
+        "paragraph": "p1785"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "epilogue"
+      },
+      "fragments": [
+        {
+          "text": "«Нет. Он должен спросить это раньше. Пока он ещё не умеет смеяться»",
+          "paragraph": "p1785",
+          "pencil": true,
+          "strike": false
+        }
+      ],
+      "blank": false
+    },
+    {
+      "id": "forty-one",
+      "title": "Сорок первая минута",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-01",
+        "paragraph": "p130"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-01"
+      },
+      "fragments": [
+        {
+          "text": "«На сорок первой минуте он обязательно спросит, что случилось»",
+          "paragraph": "p130",
+          "pencil": false,
+          "strike": false
+        }
+      ],
+      "blank": false
+    },
+    {
+      "id": "next-variant",
+      "title": "Следующий вариант",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-06",
+        "paragraph": "p527"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-06"
+      },
+      "fragments": [
+        {
+          "text": "«Если первый закончится хорошо, следующий всё равно начнётся»",
+          "paragraph": "p527",
+          "pencil": true,
+          "strike": false
+        }
+      ],
+      "blank": false
+    },
+    {
+      "id": "two-lines",
+      "title": "Две строки",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-09",
+        "paragraph": "p854"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-09"
+      },
+      "fragments": [
+        {
+          "text": "«Он стоял рядом, пока я не перестала бояться»",
+          "paragraph": "p854",
+          "pencil": false,
+          "strike": false
+        },
+        {
+          "text": "«Динара принесла листы»",
+          "paragraph": "p858",
+          "pencil": false,
+          "strike": false
+        }
+      ],
+      "blank": false
+    },
+    {
+      "id": "characters",
+      "title": "Описания персонажей",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-13",
+        "paragraph": "p1162"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-13"
+      },
+      "fragments": [
+        {
+          "text": "«Салман — не слишком серьёзный. Умеет смешить даже когда не старается. Не превращать его в идеального героя»",
+          "paragraph": "p1162",
+          "pencil": false,
+          "strike": false
+        },
+        {
+          "text": "«Смерть — не злой. Не должен понимать шутки с первого раза. Пусть учится любить обычные вещи»",
+          "paragraph": "p1168",
+          "pencil": false,
+          "strike": false
+        }
+      ],
+      "blank": false
+    },
+    {
+      "id": "variant-two",
+      "title": "Второй вариант",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-17",
+        "paragraph": "p1590"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-17"
+      },
+      "fragments": [
+        {
+          "text": "«Второй вариант: он остаётся, но начинает задавать вопросы»",
+          "paragraph": "p1590",
+          "pencil": false,
+          "strike": false
+        }
+      ],
+      "blank": false
+    },
+    {
+      "id": "ending",
+      "title": "Пометка о финале",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "chapter-06",
+        "paragraph": "p514"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-06"
+      },
+      "fragments": [
+        {
+          "text": "«Финал первого тома. Пусть всё закончится будто хорошо»",
+          "paragraph": "p514",
+          "pencil": true,
+          "strike": false
+        }
+      ],
+      "blank": false
+    },
+    {
+      "id": "wish",
+      "title": "Первые листы",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "chapter-12",
+        "paragraph": "p961"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-12"
+      },
+      "fragments": [
+        {
+          "text": "«Когда-нибудь я хочу написать историю, где кто-то возвращается»",
+          "paragraph": "p961",
+          "pencil": false,
+          "strike": false
+        },
+        {
+          "text": "«Смерть не должна быть страшной. Она просто не понимает людей. Пусть научится»",
+          "paragraph": "p971",
+          "pencil": false,
+          "strike": false
+        }
+      ],
+      "blank": false
+    },
+    {
+      "id": "crossed",
+      "title": "Зачёркнутая строка",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "chapter-19",
+        "paragraph": "p1533"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-19"
+      },
+      "fragments": [
+        {
+          "text": "«Сайкал отпустила их и пошла дальше»",
+          "paragraph": "p1533",
+          "pencil": false,
+          "strike": true
+        }
+      ],
+      "blank": false
+    },
+    {
+      "id": "not-today",
+      "title": "На обороте листа",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "chapter-19",
+        "paragraph": "p1545"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-19"
+      },
+      "fragments": [
+        {
+          "text": "«Я не отпущу вас»",
+          "paragraph": "p1545",
+          "pencil": false,
+          "strike": false
+        }
+      ],
+      "blank": false
+    },
+    {
+      "id": "third",
+      "title": "Третья версия",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "chapter-20",
+        "paragraph": "p1598"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-20"
+      },
+      "fragments": [
+        {
+          "text": "«Третья версия»",
+          "paragraph": "p1598",
+          "pencil": false,
+          "strike": false
+        },
+        {
+          "text": "«Мама вернётся с работы вечером»",
+          "paragraph": "p1624",
+          "pencil": false,
+          "strike": false
+        }
+      ],
+      "blank": false
+    }
+  ],
+  "nodes": [
+    {
+      "id": "salman",
+      "title": "Салман",
+      "description": "Салман первым подходит познакомиться с Сайкал.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-01",
+        "paragraph": "p66"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-01"
+      },
+      "portrait": "assets/images/characters/salman.png"
+    },
+    {
+      "id": "saikal",
+      "title": "Сайкал",
+      "description": "Новая ученица с синей тетрадью у окна.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-01",
+        "paragraph": "p40"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-01"
+      },
+      "portrait": "assets/images/characters/saikal.png"
+    },
+    {
+      "id": "death",
+      "title": "Смерть",
+      "description": "После третьего дня мир показан глазами Смерти в теле Салмана.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-04",
+        "paragraph": "p447"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-04"
+      }
+    },
+    {
+      "id": "notebook",
+      "title": "Синяя тетрадь",
+      "description": "Сайкал записывает разговоры в синюю тетрадь.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-01",
+        "paragraph": "p180"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-01"
+      }
+    },
+    {
+      "id": "time",
+      "title": "16:17",
+      "description": "Повторяющееся время появляется на экране телефона.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-03",
+        "paragraph": "p422"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-03"
+      }
+    },
+    {
+      "id": "photographs",
+      "title": "Фотографии",
+      "description": "Школьная фотография хранит фрагмент чужой жизни.",
+      "source": {
+        "volume": "volume-1",
+        "chapter": "chapter-14",
+        "paragraph": "p1187"
+      },
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-14"
+      }
+    },
+    {
+      "id": "versions",
+      "title": "Версии воспоминаний",
+      "description": "Листки и пометки заставляют Сайкал сравнивать версии истории.",
+      "source": {
+        "volume": "volume-2",
+        "chapter": "chapter-13",
+        "paragraph": "p1162"
+      },
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-13"
+      }
+    },
+    {
+      "id": "drafts",
+      "title": "Черновики",
+      "description": "Сайкал возвращается к ранним версиям созданных персонажей.",
+      "source": {
+        "volume": "volume-3",
+        "chapter": "chapter-16",
+        "paragraph": "p1217"
+      },
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-16"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "salman",
+      "to": "saikal",
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-01"
+      }
+    },
+    {
+      "from": "saikal",
+      "to": "notebook",
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-01"
+      }
+    },
+    {
+      "from": "salman",
+      "to": "death",
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-04"
+      }
+    },
+    {
+      "from": "salman",
+      "to": "time",
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-03"
+      }
+    },
+    {
+      "from": "death",
+      "to": "photographs",
+      "unlock": {
+        "volume": "volume-1",
+        "chapter": "chapter-14"
+      }
+    },
+    {
+      "from": "notebook",
+      "to": "versions",
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-13"
+      }
+    },
+    {
+      "from": "photographs",
+      "to": "versions",
+      "unlock": {
+        "volume": "volume-2",
+        "chapter": "chapter-17"
+      }
+    },
+    {
+      "from": "versions",
+      "to": "drafts",
+      "unlock": {
+        "volume": "volume-3",
+        "chapter": "chapter-16"
+      }
+    }
+  ]
+}
